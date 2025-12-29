@@ -28,3 +28,11 @@ Customer data is costly for businesses. This project predicts whether a customer
 
 ## Project Structure
 (brief tree here)
+## Telco  Dataset
+
+Source: IBM Sample Datasets (Telco Customer data)
+
+This directory contains:
+- `raw/` – original, unmodified dataset
+- `processed/` – cleaned and feature-engineered data
+
